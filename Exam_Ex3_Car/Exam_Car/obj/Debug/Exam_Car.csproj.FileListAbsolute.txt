@@ -1,0 +1,14 @@
+C:\Users\Elad Hatan\Desktop\Exam_Ex3_Car\Exam_Car\bin\Debug\Exam_Car.exe.config
+C:\Users\Elad Hatan\Desktop\Exam_Ex3_Car\Exam_Car\bin\Debug\Exam_Car.exe
+C:\Users\Elad Hatan\Desktop\Exam_Ex3_Car\Exam_Car\bin\Debug\Exam_Car.pdb
+C:\Users\Elad Hatan\Desktop\Exam_Ex3_Car\Exam_Car\obj\Debug\Exam_Car.csprojAssemblyReference.cache
+C:\Users\Elad Hatan\Desktop\Exam_Ex3_Car\Exam_Car\obj\Debug\Exam_Car.csproj.CoreCompileInputs.cache
+C:\Users\Elad Hatan\Desktop\Exam_Ex3_Car\Exam_Car\obj\Debug\Exam_Car.exe
+C:\Users\Elad Hatan\Desktop\Exam_Ex3_Car\Exam_Car\obj\Debug\Exam_Car.pdb
+E:\לימודים\שנה שנייה  2018_2019\סמסטר ב\C#\פיתרון מבחן לדוגמא C#\Exam_Ex3_Car\Exam_Car\bin\Debug\Exam_Car.exe.config
+E:\לימודים\שנה שנייה  2018_2019\סמסטר ב\C#\פיתרון מבחן לדוגמא C#\Exam_Ex3_Car\Exam_Car\bin\Debug\Exam_Car.exe
+E:\לימודים\שנה שנייה  2018_2019\סמסטר ב\C#\פיתרון מבחן לדוגמא C#\Exam_Ex3_Car\Exam_Car\bin\Debug\Exam_Car.pdb
+E:\לימודים\שנה שנייה  2018_2019\סמסטר ב\C#\פיתרון מבחן לדוגמא C#\Exam_Ex3_Car\Exam_Car\obj\Debug\Exam_Car.csprojAssemblyReference.cache
+E:\לימודים\שנה שנייה  2018_2019\סמסטר ב\C#\פיתרון מבחן לדוגמא C#\Exam_Ex3_Car\Exam_Car\obj\Debug\Exam_Car.csproj.CoreCompileInputs.cache
+E:\לימודים\שנה שנייה  2018_2019\סמסטר ב\C#\פיתרון מבחן לדוגמא C#\Exam_Ex3_Car\Exam_Car\obj\Debug\Exam_Car.exe
+E:\לימודים\שנה שנייה  2018_2019\סמסטר ב\C#\פיתרון מבחן לדוגמא C#\Exam_Ex3_Car\Exam_Car\obj\Debug\Exam_Car.pdb
